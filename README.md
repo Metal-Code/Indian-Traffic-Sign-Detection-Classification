@@ -91,8 +91,4 @@ After training, the model can accurately detect various traffic signs, including
 
 Performance metrics, sample predictions, and possible improvements are documented in the notebook. You can tune hyperparameters and expand the dataset to enhance accuracy.
 
-## Contributors
-- Add your name and contributions here
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
