@@ -1,0 +1,17 @@
+# Core libraries
+numpy>=1.18.5
+pandas>=1.1.5
+opencv-python>=4.5.3.56
+matplotlib>=3.3.4
+pillow>=8.0.1
+scikit-learn>=0.24.1
+
+# TensorFlow 1.x (if required for legacy code)
+tensorflow==1.15.5
+
+# Optional for Google Colab, to manage files from Google Drive
+google-colab>=1.0.0
+
+# OS and system libraries
+os-sys  # Note: os-sys is part of Python's standard library, so you may not need to include it explicitly.
+
